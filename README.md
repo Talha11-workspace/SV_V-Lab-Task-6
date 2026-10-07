@@ -2,7 +2,11 @@
 
 ## Railway Level-Crossing Control System
 
-Student: Talha Khalil
+Students: 
+
+Talha Khalil 133
+Abdullah Siddiqui 094
+M. Mubashir 124
 
 Scenario-based analysis of requirements, formal safety constraints, violations, and expected protective responses. Prepared with AI assistance for student review and explanation. No live railway software was tested.
 
