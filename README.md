@@ -1,6 +1,6 @@
 # SV&V Lab Task 6
 
-## Railway Level-Crossing Control System
+## Railway Level Crossing Control System
 
 Students: 
 
